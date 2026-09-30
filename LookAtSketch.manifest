@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "3cb9f366-53d4-459b-8f32-e0e98e192be7",
+  "author": "Elia Chiarucci",
+  "description": {
+    "": "This add-in will make the camera correctly look at a new sketch, framing it at the center of the view. Various options are available for further customisation."
+  },
+  "version": "1.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

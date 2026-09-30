@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "animate": true,
+  "snap_axis": true,
+  "fit_to_face": false,
+  "margin": 1.3,
+  "look_at_on_edit": true
+}
