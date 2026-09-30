@@ -1,4 +1,4 @@
-# LookAtSketch – a Fusion add-in
+# LookAtSketch Fusion add-in
 
 When you start a new sketch on a face, Fusion's built-in "Auto look at sketch" turns the
 view face-on but centers it on the origin.
@@ -11,7 +11,7 @@ fit it). It does the same when you edit an existing sketch.
 
 ## Download
 
-The .zip file can be downloaded from the releases page, or by clicking this [link]().
+The .zip file can be downloaded from the releases page, or by clicking this [link](https://github.com/eliachiarucci/look-at-sketch/releases/download/v1.0/LookAtSketch.zip).
 
 ## Install
 
